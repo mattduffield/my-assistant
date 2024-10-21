@@ -2,41 +2,6 @@
 
 This is a simple demonstration of how to use Gemini Nano in Google Chrome Canary or Dev.
 
-## Sample Prompts
-
-The following are some example prompts that you can use:
-
-```bash
-Give me a recipe for banana bread.
-```
-
-```bash
-What is the capital of Oregon?
-```
-
-Here is an example of a confused reponse:
-
-```bash
-What is the capital of Washington?
-```
-
-Now, with more clarification:
-
-```bash
-What is the capital of Washington State?
-```
-
-Here is another area where the model has some problems:
-
-```bash
-Perform the following multiplication: 2x10
-```
-
-However, it can provide you with steps for mathematically formulas:
-
-```bash
-What is the circumference of a circle?
-```
 
 ## Setting up a local server on Mac
 
@@ -92,3 +57,38 @@ This will serve the contents of the current directory on `http://localhost:3012`
 
 
 
+## Sample Prompts
+
+The following are some example prompts that you can use:
+
+```bash
+Give me a recipe for banana bread.
+```
+
+```bash
+What is the capital of Oregon?
+```
+
+Here is an example of a confused reponse:
+
+```bash
+What is the capital of Washington?
+```
+
+Now, with more clarification:
+
+```bash
+What is the capital of Washington State?
+```
+
+Here is another area where the model has some problems:
+
+```bash
+Perform the following multiplication: 2x10
+```
+
+However, it can provide you with steps for mathematically formulas:
+
+```bash
+What is the circumference of a circle?
+```
